@@ -8,7 +8,7 @@
 
 [onemax.az](https://onemax.az) · [Partnyorlar üçün](https://partner.onemax.az)
 
-<br />
+
 
 <img src="onemax.webp" alt="OneMax tətbiqi: ana səhifə, məkanlar və məkan səhifəsi" width="100%" />
 
@@ -16,25 +16,20 @@
 
 ## OneMax nədir
 
-OneMax Bakının kafe və restoranlarında işləyən üzvlük klubudur. Üzv olursunuz,
+OneMax Bakının kafe, restoran, fitnes, gözəllik salonu və birçox digər məkanlarında işləyən üzvlük klubudur. Üzv olursunuz,
 partnyor məkanda eyni təklifdən iki dənə sifariş edirsiniz, birinin pulunu verirsiniz.
 İkincisi pulsuzdur.
 
 ## Necə işləyir
 
 1. **Abunə olun.** [onemax.az](https://onemax.az) saytında özünüzə uyğun planı seçin.
-2. **Məkan seçin.** Xəritədə yaxınlıqdakı məkanlara və təkliflərinə baxın: kofe, nahar, şirniyyat,
-   çay dəsti.
-3. **Kodu göstərin.** Kassada tətbiqdəki QR kodu açın, kassir skan etsin. Kod hər dəqiqə yenilənir,
-   ona görə onun ekran şəklini başqasına göndərmək işə yaramır.
+2. **Məkan seçin.** Xəritədə yaxınlıqdakı məkanlara və təkliflərinə baxın.
+3. **Kodu göstərin.** Kassada tətbiqdəki QR kodu açın, kassir skan etsin və təklifdən
+yararlanın. 
 
 ## Məkan sahibləri üçün
 
-Məkanınız OneMax-a qoşulanda üzvlər onu xəritədə görür və təklifinizə görə gəlir. Partnyor
-panelində neçə nəfərin gəldiyini, hansı gün və saatlarda daha çox gəldiyini görürsünüz.
-
-Hər kassirin öz dəvət kodu var. Kassir müştəriyə kodu göstərir, müştəri qeydiyyatdan keçir. Hansı kassirin
-neçə nəfər gətirdiyi və onların hansı plana abunə olduğu paneldə görünür.
+Məkanınız OneMax-a qoşulanda üzvlərimiz məkanınızı və təkliflərinizi tətbiqdə görür.
 
 Qoşulmaq üçün [partner.onemax.az](https://partner.onemax.az) saytında hesab açıb müraciət göndərin.
 Müraciətinizə baxırıq, təsdiqdən sonra məkanınız tətbiqdə görünür.
